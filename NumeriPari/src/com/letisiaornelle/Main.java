@@ -3,6 +3,7 @@ package com.letisiaornelle;
 public class Main {
 
     public static void main(String[] args) {
-	     System.out.println("Ciao");
+        int number = 26;
+       NPari.nPari(number);
     }
 }
